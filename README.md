@@ -1,0 +1,1 @@
+A subset of Mitre repository with random 2000 extraction from enterprise_attack.json
